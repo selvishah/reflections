@@ -3,9 +3,12 @@ it creates a hidden folder .git and shows what files are yet to be checked in. S
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+staging area has files representing 1 logical change. Only files to be commited are present here
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+only files representing 1 logical change should be added to the staging area. That way when they are commited it will be for
+one logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
