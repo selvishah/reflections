@@ -15,6 +15,7 @@ organized? How would branches help?
 when adding an expiremental change which isnt ready yet, branching will help. that way the main bramch can continue to work
 
 How do the diagrams help you visualize the branch structure?
+they help figure out the parent of commit,no of branches,latest commit
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
