@@ -12,7 +12,13 @@ and you want to pull them once they are done
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    branch is for creating a new branch from the last commit
+    clones is for creating a clone of a repository on your local machine
+    fork is for creating a copy of someones repository on github itself.
+
+Fork will be used if you want to use someone's repository and make changes on top of that without modifying the existing version
+clone will be used if you want a local copy of a repository on your machine and make that the remote to which you can push and pull
+Branch works on existing repository where say you want to add an expiremental feature and dont want to commit it on the main branch until its functional
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
